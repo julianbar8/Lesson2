@@ -47,13 +47,21 @@
 #     print(items["name"])
 #
 #
-list_data = [1,2,3,4,5]
-for num in list_data:
-     if num == 3:
-         print("i found three")
-     elif num > 3:
-         print("gone too far")
-     else:
-         print("too soon")
+# list_data = [1,2,3,4,5]
+# for num in list_data:
+#      if num == 3:
+#          print("i found three")
+#      elif num > 3:
+#          print("gone too far")
+#      else:
+#          print("too soon")
+#
+#
+# List_0 = [list of even numbers]
+# List_2 = [25,30,56,78,86,45]
+# for x in List_2:
+#     for y in List_0:
+#         if x == y:
+#             print(x,y)
+#
 
-         
