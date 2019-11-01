@@ -50,9 +50,21 @@
 #     else:
 #         print(fizzbuzz)
 
+# def fizzbuzz(num):
+#  num = num + 1
+#  for i in range(1,num):
+#               if i % 3 == 0 and i % 5 == 0:
+#                   print("fizzbuzz")
+#               elif i % 3 == 0:
+#                   print("fizz")
+#               elif i % 5 == 0:
+#                   print("buzz")
+#               else:
+#                   print(i)
+# fizzbuzz(30)
 
 # for fizzbuzz in range(1, 51):
-#     if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
+# if fizzbuzz % 3 == 0 and fizzbuzz % 5 == 0:
 #         print("fizzbuzz")
 #     elif fizzbuzz % 3 == 0:
 #         print("fizz")
@@ -60,3 +72,8 @@
 #         print("buzz")
 #     else:
 #         print(fizzbuzz)
+
+#1 fizzbuzz using if and for
+#2 making the use of functions and passing the value by yourself like you just did (num +1)
+#3 user has to input the values
+#4 user gives number and you have to return whether it is fiz buzz or fizzbuzz, either by using functions or if
